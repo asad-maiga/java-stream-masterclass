@@ -79,7 +79,3 @@ To run the code from this repository:
 - **Modern Java Practices:** Extensive use of method references, functional style programming, and immutability.
 
 ---
-
-## 📂 Project Structure
-
-Here’s a high-level overview of the project's structure:
